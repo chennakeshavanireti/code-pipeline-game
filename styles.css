@@ -335,7 +335,7 @@ section .title::after {
 
 /*  Footer  */
 footer {
-  background: #111;
+  background: WHITE;
   padding: 6px 16px;
   color: #888c8d;
   text-align: center;
